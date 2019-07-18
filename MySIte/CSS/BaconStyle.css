@@ -1,0 +1,29 @@
+/*Tag Selector*/
+h1
+{
+  color:red;
+}
+img:hover
+{
+  background-color: red;
+}
+
+/*End Tag Selector*/
+
+/* Class Selector*/
+.meat
+{
+  background-color: orange;
+}
+
+.veg
+{
+  background-color: green;
+}
+
+.circular
+{
+  border-radius: 120%;
+}
+
+/*End Class Selector*/
